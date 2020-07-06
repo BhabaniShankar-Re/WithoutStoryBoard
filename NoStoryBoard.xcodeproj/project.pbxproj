@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79ADD73224B3A2B2000B44D0 /* BasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79ADD73124B3A2B2000B44D0 /* BasicViewController.swift */; };
 		79C10458246C5CF50033D6F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C10457246C5CF50033D6F1 /* AppDelegate.swift */; };
 		79C1045A246C5CF50033D6F1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C10459246C5CF50033D6F1 /* SceneDelegate.swift */; };
-		79C1045C246C5CF50033D6F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C1045B246C5CF50033D6F1 /* ViewController.swift */; };
+		79C1045C246C5CF50033D6F1 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C1045B246C5CF50033D6F1 /* FirstViewController.swift */; };
 		79C10461246C5D020033D6F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79C10460246C5D020033D6F1 /* Assets.xcassets */; };
 		79C10464246C5D020033D6F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79C10462246C5D020033D6F1 /* LaunchScreen.storyboard */; };
 		79C1046C246C625B0033D6F1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C1046B246C625B0033D6F1 /* SecondViewController.swift */; };
@@ -19,10 +20,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79ADD73124B3A2B2000B44D0 /* BasicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicViewController.swift; sourceTree = "<group>"; };
 		79C10454246C5CF50033D6F1 /* NoStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79C10457246C5CF50033D6F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79C10459246C5CF50033D6F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		79C1045B246C5CF50033D6F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		79C1045B246C5CF50033D6F1 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		79C10460246C5D020033D6F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79C10463246C5D020033D6F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79C10465246C5D020033D6F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -65,7 +67,8 @@
 				79C10457246C5CF50033D6F1 /* AppDelegate.swift */,
 				79C10459246C5CF50033D6F1 /* SceneDelegate.swift */,
 				79C10471246C636B0033D6F1 /* NavViewController.swift */,
-				79C1045B246C5CF50033D6F1 /* ViewController.swift */,
+				79ADD73124B3A2B2000B44D0 /* BasicViewController.swift */,
+				79C1045B246C5CF50033D6F1 /* FirstViewController.swift */,
 				79C1046B246C625B0033D6F1 /* SecondViewController.swift */,
 				79C1046D246C62670033D6F1 /* ThirdViewController.swift */,
 				79C1046F246C628C0033D6F1 /* ForthViewController.swift */,
@@ -149,8 +152,9 @@
 				79C10470246C628C0033D6F1 /* ForthViewController.swift in Sources */,
 				79C10472246C636B0033D6F1 /* NavViewController.swift in Sources */,
 				79C1046C246C625B0033D6F1 /* SecondViewController.swift in Sources */,
-				79C1045C246C5CF50033D6F1 /* ViewController.swift in Sources */,
+				79C1045C246C5CF50033D6F1 /* FirstViewController.swift in Sources */,
 				79C1046E246C62670033D6F1 /* ThirdViewController.swift in Sources */,
+				79ADD73224B3A2B2000B44D0 /* BasicViewController.swift in Sources */,
 				79C10458246C5CF50033D6F1 /* AppDelegate.swift in Sources */,
 				79C1045A246C5CF50033D6F1 /* SceneDelegate.swift in Sources */,
 			);
